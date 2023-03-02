@@ -1,6 +1,6 @@
 # Book_bot
 
-BookBot is my first git project!
+Book_bot is my first git project!
 
 The functionality of the program is to read a txt file and print a report from it.
 
