@@ -1,6 +1,6 @@
 import string
 
-with open("Books/frankenstein.txt") as f:
+with open("/root/workspace/github.com/Kriso-Yordanov/Book_bot/Books/frankenstein.txt") as f:
     file_contents = f.read()
 
 def book_report():
